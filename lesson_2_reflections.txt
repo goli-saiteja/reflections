@@ -4,3 +4,5 @@ All the files are kept in the bucket before committing when you initialize a rep
 a.
 3.How do the diagrams help you visualize the branch structure?
 a.The diagrams help us to visualize reachability and commiting history with respect to the branches.
+4.How to add the local commits to the git repos?
+a.Create ssh and then git push origin master
