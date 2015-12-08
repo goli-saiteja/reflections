@@ -1,0 +1,2 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+All the files are kept in the bucket before committing when you initialize a repository.
