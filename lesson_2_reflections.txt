@@ -1,2 +1,6 @@
 1.What happens when you initialize a repository? Why do you need to do it?
 All the files are kept in the bucket before committing when you initialize a repository.
+2.How can you use the staging area to make sure you have one commit per logical change?
+a.
+3.How do the diagrams help you visualize the branch structure?
+a.The diagrams help us to visualize reachability and commiting history with respect to the branches.
